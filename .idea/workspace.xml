@@ -28,7 +28,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1TCzUwLFdaWmi4dqCesOniWmxT7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Adedel\IdeaProjects\webdriver_java\resources" />
