@@ -19,7 +19,7 @@ public class BaseTests {
         List<WebElement> lis = driver.findElements(By.tagName("li"));
         System.out.println("Numbers of elements in menu: " + lis.size());
 
-        //System.out.println(driver.getTitle());
+        System.out.println(driver.getTitle());
         driver.quit();
     }
     public static void main (String args[]) {
